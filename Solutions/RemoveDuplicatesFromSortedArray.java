@@ -1,4 +1,6 @@
-class Solution {
+
+//26 on leetcode
+class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
        
         int temp =1;
